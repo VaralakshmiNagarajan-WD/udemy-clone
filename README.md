@@ -12,7 +12,7 @@ To view this project, you only need a web browser. Simply clone the repository a
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/repository-name.git
+git clone https://varalakshminagarajan-wd.github.io/udemy-clone/
 Open the project folder.
 Run the project by opening index.html in your browser.
 # Technologies Used
